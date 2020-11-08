@@ -61,10 +61,15 @@ content: The proliferation of smartphones has significantly facilitated peopleâ€
   # text_color_light = true  
 
 [advanced]
+
  # Custom CSS. 
  css_style = ""
 
  # CSS class.
  css_class = ""
 
++++
 
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publication/).
+{{% /callout %}}
