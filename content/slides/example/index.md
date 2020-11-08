@@ -13,9 +13,9 @@ slides:
   highlight_style: dracula
 ---
 
-# Deep Ensemble Learning For Human Activity Recognition Using Smartphone
+# Deep Ensemble Learning For HAR Using Smartphone
 
-[PDF](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
+[Conference PDF](https://ieeexplore.ieee.org/document/8631677) | [Journal PDF](https://ieeexplore.ieee.org/document/8734079)
 
 ---
 
