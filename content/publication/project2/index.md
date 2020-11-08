@@ -1,6 +1,7 @@
 ---
 title: "Efficient Human Activity Recognition Solving the Confusing Activities via Deep Ensemble Learning"
-authors: "*Ran Zhu*", Zhuoling Xiao, Ying Li, Mingkun Yang, Yawen Tan, Liang Zhou, Shuisheng Lin, Hongkai Wen
+authors:
+- Ran Zhu, Zhuoling Xiao, Ying Li, Mingkun Yang, Yawen Tan, Liang Zhou, Shuisheng Lin, Hongkai Wen
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
@@ -60,7 +61,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: 'presentation-dsp2018_11_20.pdf'
+slides: "example"
 ---
 
 
