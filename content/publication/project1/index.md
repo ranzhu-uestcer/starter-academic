@@ -30,7 +30,8 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: 'HAR.pdf'
+url_pdf: https://ieeexplore.ieee.org/document/8734079
+url_pdf: https://ieeexplore.ieee.org/document/8631677
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
