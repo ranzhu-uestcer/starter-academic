@@ -13,9 +13,9 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Academic
+# Deep Ensemble Learning For Human Activity Recognition Using Smartphone
 
-[Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
+[PDF](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
 
 ---
 
