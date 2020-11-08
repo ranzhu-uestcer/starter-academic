@@ -15,16 +15,16 @@ publishDate: "2019-05-21T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["2"]["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE ACCESS*"
+publication: "*IEEE ACCESS, DSP2018*"
 publication_short: ""
 
 abstract: The ubiquity of smartphones and their rich set of on-board sensors have created many exciting new opportunities, where smartphones are used as powerful computing platforms to sense and analyze pervasive data. One important application of mobile sensing is activity recognition based on smartphone inertial sensors, which is a fundamental building block for a variety of scenarios, such as indoor pedestrian tracking, mobile health care and smart cities. Although many approaches have been proposed to address the human activity recognition problem, several challenges are still present (i) people's motion modes are very different for different individuals; (ii) there is only very limited amount of training data; (iii) human activities can be arbitrary and complex, thus handcrafted feature engineering often fails to work; (iv) the recognition accuracy tends to be limited due to confusing activities. To tackle those challenges, in this paper we propose a human activity recognition framework based on Convolutional Neural Networks (CNN) with two convolutional layers using the smartphone-based accelerometer, gyroscope and magnetometer. To solve the confusion between highly similar activities like going upstairs and walking, this paper presents a novel ensemble model of CNN to further improve the identification accuracy. Extensive experiments have been conducted using 235 977 sensory samples from 100 subjects. The results have shown that the classification accuracy of the proposed model can up to 96.11%, which proves the effectiveness of the proposed model.
 
 # Summary. An optional shortened abstract.
-summary: The ubiquity of smartphones and their rich set of on-board sensors have created many exciting new opportunities, where smartphones are used as powerful computing platforms to sense and analyze pervasive data. One important application of mobile sensing is activity recognition based on smartphone inertial sensors, which is a fundamental building block for a variety of scenarios, such as indoor pedestrian tracking, mobile health care and smart cities. Although many approaches have been proposed to address the human activity recognition problem, several challenges are still present (i) people's motion modes are very different for different individuals; (ii) there is only very limited amount of training data; (iii) human activities can be arbitrary and complex, thus handcrafted feature engineering often fails to work; (iv) the recognition accuracy tends to be limited due to confusing activities. To tackle those challenges, in this paper we propose a human activity recognition framework based on Convolutional Neural Networks (CNN) with two convolutional layers using the smartphone-based accelerometer, gyroscope and magnetometer. To solve the confusion between highly similar activities like going upstairs and walking, this paper presents a novel ensemble model of CNN to further improve the identification accuracy. Extensive experiments have been conducted using 235 977 sensory samples from 100 subjects. The results have shown that the classification accuracy of the proposed model can up to 96.11%, which proves the effectiveness of the proposed model.
+summary: The ubiquity of smartphones and their rich set of on-board sensors have created many exciting new opportunities, where smartphones are used as powerful computing platforms ...
 
 tags:
 - Source Themes
