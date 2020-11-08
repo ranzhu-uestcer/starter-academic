@@ -3,7 +3,7 @@ title: "Efficient Human Activity Recognition Solving the Confusing Activities vi
 authors:
 - admin
 - Ran Zhu, Zhuoling Xiao*, Ying Li, Mingkun Yang, Yawen Tan, Liang Zhou, Shuisheng Lin, Hongkai Wen
-author_notes:
+# author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2019-06-10T00:00:00Z"
