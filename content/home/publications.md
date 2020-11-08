@@ -7,8 +7,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "**Efficient Human Activity Recognition Solving the Confusing Activities via Deep Ensemble Learning**"
-subtitle = "ABC"
+title = "Publications"
+subtitle = ""
+
+ABC
 
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
