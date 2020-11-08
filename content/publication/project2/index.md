@@ -1,11 +1,11 @@
 ---
-title: "A"
+title: "Efficient Human Activity Recognition Solving the Confusing Activities via Deep Ensemble Learning"
 authors:
 - admin
 - Ran Zhu, Zhuoling Xiao*, Ying Li, Mingkun Yang, Yawen Tan, Liang Zhou, Shuisheng Lin, Hongkai Wen
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2019-06-10T00:00:00Z"
 doi: ""
 
@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "*IEEE ACCESS*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Lorem The ubiquity of smartphones and their rich set of on-board sensors have created many exciting new opportunities. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -35,7 +35,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://ieeexplore.ieee.org/document/8734079
-url_pdf: https://ieeexplore.ieee.org/document/8631677
+# url_pdf: https://ieeexplore.ieee.org/document/8631677
 url_code: ''
 url_dataset: ''
 url_poster: ''
