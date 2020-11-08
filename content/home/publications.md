@@ -10,6 +10,8 @@ weight = 90  # Order that this section will appear.
 title = "Publications"
 subtitle = ""
 
+content: The proliferation of smartphones has significantly facilitated people’s life, and diverse and powerful embedded sensors make smartphone a ubiquitous platform to acquire and analyze data, which also provides great potential for efficient human activity recognition. We propose a learning-based ensemble model to improve recognition accuracy of human activities, especially those that are easily confused. In order to make the model more robust and generalized, a huge amount of motion data including 100 participants ageing from 12 to 51 is collected using ordinary smartphones at a sampling rate of 50Hz. This dataset contains 7 motion modes in 4 smartphone placements under 2 different collection platforms (IOS and Android).
+
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
 
@@ -64,8 +66,5 @@ subtitle = ""
 
  # CSS class.
  css_class = ""
-+++
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+
