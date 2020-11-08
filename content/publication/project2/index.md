@@ -35,7 +35,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://ieeexplore.ieee.org/document/8734079
-url_pdf_c: https://ieeexplore.ieee.org/document/8631677
+# url_pdf: https://ieeexplore.ieee.org/document/8631677
 url_code: ''
 url_dataset: ''
 url_poster: ''
