@@ -36,9 +36,9 @@ featured: false
 url_pdf: https://ieeexplore.ieee.org/document/8734079
 url_code: ''
 url_dataset: ''
-url_poster: 'presentation-dsp2018_11_20.pdf'
-url_project: ''
 url_talk: 'presentation-dsp2018_11_20.pdf'
+url_project: ''
+# url_talk: 'presentation-dsp2018_11_20.pdf'
 url_source: ''
 url_video: 'HAR_video.mp4'
 
