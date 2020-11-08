@@ -1,11 +1,11 @@
 ---
-title: "An example journal article"
+title: "A"
 authors:
 - admin
 - Ran Zhu, Zhuoling Xiao*, Ying Li, Mingkun Yang, Yawen Tan, Liang Zhou, Shuisheng Lin, Hongkai Wen
 author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 date: "2019-06-10T00:00:00Z"
 doi: ""
 
@@ -34,7 +34,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://ieeexplore.ieee.org/document/8734079
+url_pdf: https://ieeexplore.ieee.org/document/8631677
 url_code: ''
 url_dataset: ''
 url_poster: ''
