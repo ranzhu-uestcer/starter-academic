@@ -26,10 +26,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "ABC"
-    category = "EF"
-    publication_type = "G"
-    author = "Ran Zhu"
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
     exclude_featured = false
 
 [design]
@@ -69,8 +69,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-+++
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
