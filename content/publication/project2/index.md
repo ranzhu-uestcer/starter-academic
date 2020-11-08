@@ -1,7 +1,7 @@
 ---
 title: "Efficient Human Activity Recognition Solving the Confusing Activities via Deep Ensemble Learning"
 authors:
-- **Ran Zhu**, Zhuoling Xiao, Ying Li, Mingkun Yang, Yawen Tan, Liang Zhou, Shuisheng Lin, Hongkai Wen
+- __Ran Zhu__, Zhuoling Xiao, Ying Li, Mingkun Yang, Yawen Tan, Liang Zhou, Shuisheng Lin, Hongkai Wen
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
@@ -65,12 +65,12 @@ projects: []
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication #metadata into their reference management software.
+# {{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
