@@ -38,7 +38,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-# url_talk: 'presentation-dsp2018_11_20.pdf'
+# url_slides: 'presentation-dsp2018_11_20.pdf'
 url_source: ''
 url_video: 'HAR_video.mp4'
 
@@ -61,7 +61,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: "example"
+#   slides: "example"
 ---
 
 
