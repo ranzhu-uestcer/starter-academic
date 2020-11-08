@@ -11,5 +11,5 @@ view: 4
 # Optional header image (relative to `static/media/` folder).
 header: AAAAAAA
   caption: "BBBBBB"
-  image: "static/media/HAR.png"
+  image: "HAR.png"
 ---
