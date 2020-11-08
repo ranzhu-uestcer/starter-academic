@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Efficient Human Activity Recognition Solving the Confusing Activities via Deep Ensemble Learning"
 authors:
 - admin
 - Robert Ford
@@ -10,7 +10,7 @@ date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +19,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "IEEE ACCESS"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The ubiquity of smartphones and their rich set of on-board sensors have created many exciting new opportunities, where smartphones are used as powerful computing platforms to sense and analyze pervasive data. One important application of mobile sensing is activity recognition based on smartphone inertial sensors, which is a fundamental building block for a variety of scenarios, such as indoor pedestrian tracking, mobile health care and smart cities. Although many approaches have been proposed to address the human activity recognition problem, several challenges are still present: (i) people's motion modes are very different for different individuals; (ii) there is only very limited amount of training data; (iii) human activities can be arbitrary and complex, thus handcrafted feature engineering often fails to work; (iv) the recognition accuracy tends to be limited due to confusing activities. To tackle those challenges, in this paper we propose a human activity recognition framework based on Convolutional Neural Networks (CNN) with two convolutional layers using the smartphone-based accelerometer, gyroscope and magnetometer. To solve the confusion between highly similar activities like going upstairs and walking, this paper presents a novel ensemble model of CNN to further improve the identification accuracy. Extensive experiments have been conducted using 235 977 sensory samples from 100 subjects. The results have shown that the classification accuracy of the proposed model can up to 96.11%, which proves the effectiveness of the proposed model.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,14 +34,15 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://ieeexplore.ieee.org/document/8734079
+url_pdf: https://ieeexplore.ieee.org/document/8631677
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'presentation-dsp 18_11_20.pdf'
 url_source: ''
-url_video: ''
+url_video: 'HAR_video.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
