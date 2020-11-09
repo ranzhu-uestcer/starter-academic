@@ -18,7 +18,7 @@ publishDate: "2019-09-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Sensors Journal*"
+publication: "*IEEE Sensors Journal (under review)*"
 publication_short: ""
 
 abstract: Inertial navigation system (INS) is a practical method for indoor pedestrian navigation without pre-installation of infrastructure. Based on the fundamentals of human bipedal motion, zero velocity update (ZUPT) is a pervasive approach to tackle the accumulated error of inertial measurement units (IMU). While zero velocity detection plays a vital role in the algorithm, existing fixed threshold methods to pick these pseudo-measurements of error state Kalman Filter (ESKF) have the doubtful capability to fit various individuals in different motions. To address this issue, we propose the Symmetrical-Net leveraging deep Recurrent Convolutional Neural Networks (RCNNs) to detect the zero velocity interval adaptively. Additionally, two RCNNs are constructed in the symmetrical framework considering bidirectional IMU readings, which further improves the performance of the model. A comprehensive evaluation containing 87 different trajectories from 27 individuals has been conducted. The results show that the detection accuracy is up to 99.5% and 96.5% on the train and validation sets, respectively. It is verified that the precise and robust Symmetrical-Net can be a viable approach for the ZUPT-aided INS system.
