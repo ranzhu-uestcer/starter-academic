@@ -1,6 +1,6 @@
 ---
 title: Loop Closure Detection 
-summary:  A loop closure detection method using adaptive weighted similarity matrix.
+summary: A loop closure detection method using adaptive weighted similarity matrix.
 tags:
 - Mobile Robotics
 date: "2019-09-15T00:00:00Z"

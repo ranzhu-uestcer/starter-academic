@@ -1,6 +1,6 @@
 ---
-title: Loop Closure Detection 
-summary:  A loop closure detection method using adaptive weighted similarity matrix.
+title: Visual Inertial Map Matching 
+summary: Without start points&#58 Indoor positioning using architectural constraints.
 tags:
 - Pedestrian Positioning
 date: "2019-09-14T00:00:00Z"
