@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'Symmetrical-Net.pdf'
+url_pdf: 'media/Symmetrical-Net.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

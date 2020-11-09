@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'MetricNet.pdf'
+url_pdf: 'media/MetricNet.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
