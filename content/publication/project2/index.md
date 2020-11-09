@@ -40,7 +40,7 @@ url_poster: ''
 url_project: ''
 url_slides: 'media/presentation-dsp2018_11_20.pdf'
 url_source: ''
-url_video: 'HAR_video.mp4'
+url_video: 'media/HAR_video.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

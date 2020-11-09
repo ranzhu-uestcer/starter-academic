@@ -6,7 +6,7 @@ tags:
 date: "2019-06-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://ieeexplore.ieee.org/document/8734079"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -18,9 +18,9 @@ links:
   name: contact
   link: "zhu_ran@outlook.com"
 url_code: ""
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/document/8734079"
 url_slides: ""
-url_video: ""
+url_video: 'media/HAR_video.mp4'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
