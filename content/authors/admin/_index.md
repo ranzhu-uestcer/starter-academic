@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Self-driving related research topics, V-SLAM and Pedestrian indoor positioning.
+bio: My research interests include Mobile robotics, V-SLAM and Pedestrian indoor positioning.
 
 interests:
 - Self-driving related research topics
@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  mailto: "zhu_ran@outlook.com"
+  mailto:zhu_ran@outlook.com
 - icon: github
   icon_pack: fab
   link: https://github.com/ranzhu-uestcer
@@ -57,7 +57,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: Ran Zhu
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
