@@ -14,12 +14,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Mobile robotics, V-SLAM and Pedestrian indoor positioning.
+bio: My research interests include Mobile robotics, V-SLAM and Indoor pedestrian positioning.
 
 interests:
 - Self-driving related research topics
 - Visual Simultaneous Localization and Mapping (V-SLAM)
-- Pedestrian indoor positioning
+- Indoor pedestrian positioning
 
 education:
   courses:
@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  mailto:zhu_ran@outlook.com
+  link: "zhu_ran@outlook.com"
 - icon: github
   icon_pack: fab
   link: https://github.com/ranzhu-uestcer
@@ -68,6 +68,6 @@ user_groups:
 
 I am Ran Zhu, a graduate candidate studying in Communication and information system in the Department of Internet of Things Engineering, UESTC (Chengdu).
 
-My research interests lie in pedestrian indoor positioning and intelligent navigation for autonomous robots, especially about PDR, visual odometry, and visual SLAM. Previously I had been working on human activity recognition using smartphones and Zero velocity detection in ZUPT based on inertial for pedestrian navigation. I design new algorithms (increasing machine and deep learning based) and apply these innovation to solving these issues.
+My research interests lie in indoor pedestrian positioning and intelligent navigation for autonomous robots, especially about PDR, visual odometry, and visual SLAM. Previously I had been working on human activity recognition using smartphones and Zero velocity detection in ZUPT based on inertial for pedestrian navigation. I design new algorithms (increasing machine and deep learning based) and apply these innovations to solving these issues.
 
 Currently, I am investigating how to localize people and objects in environments where technologies like GPS fail, such as underground or indoors. For people positioning, my work is to address the map matching problem of inertial navigation by leveraging architectural constraints and visual information when there is no starting point. For robot navigation, my research aims to build an intelligent robotic system that can more efficiently deal with the traditional SLAM problems by combining traditional methods and deep learning.
