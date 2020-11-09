@@ -24,7 +24,7 @@ publication_types: ["3"]
 abstract: Deployment-independent indoor localization methods, such as inertial tracking and vision-based tracking have been popular for years for they require no extra infrastructure cost. However, many systems require accurate initial positions from the users or other external signals, making it difficult to meet on-demand localization requirements. To solve this issue, in this paper we propose a novel and special map matching system which matches the topology of the floor plan to the spatial structure extracted from the image of the environment taken by the camera of the mobile phone. The proposed system utilizes Convolution Neural Networks (CNN) to extract the spatial structure from images and Siamese Network for spatial structure matching. Extensive experiments have been conducted in three different buildings to demonstrate that our system can provide accurate positions without extra infrastructures and manual initial positions.
 
 # Summary. An optional shortened abstract.
-summary: Deployment-independent indoor localization methods, such as inertial tracking and vision-based tracking have been popular for years for they require no extra ...
+summary: This work focuses on map-based deployment-independent indoor positioning. Due to the fact that most existing map matching methods rely on the external information of prior site survey or initial positions provided by users, we explore a novel strategy for performing deployment-independent indoor positioning without considering start points. Here, we adopt easily accessible information such as floor plan and real-time video captured by smartphones to determine the location of the pedestrian for the following tracking.
 
 tags:
 - Source Themes
