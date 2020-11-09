@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'VI-MapMaching.pdf'
+url_pdf: 'media/VI-MapMaching.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
