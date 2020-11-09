@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: An introduction to using Academic's Slides feature.
+summary: An introduction to HAR.
 authors: []
 tags: []
 categories: []
