@@ -38,7 +38,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-# url_slides: 'presentation-dsp2018_11_20.pdf'
+url_slides: 'media/presentation-dsp2018_11_20.pdf'
 url_source: ''
 url_video: 'HAR_video.mp4'
 
