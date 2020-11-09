@@ -1,7 +1,7 @@
 ---
 title: "Visual Inertial Map Matching for Indoor Positioning using Architectural Constraints"
 authors:
-- Ying Li, Ran Zhu, Mingkun Yang, Zhuoling Xiao, Yuhan Zhang, Bo Yan
+- Kunxin Li, Mingkun Yang, Ran Zhu, Zhuoling Xiao, Bo Yan
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
