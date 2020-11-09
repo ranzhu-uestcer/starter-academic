@@ -1,8 +1,8 @@
 ---
 title: Zero Velocity Detection
-summary: Adaptive Zero Velocity Detection for ZUPT-Aided Pedestrian Navigation System.
+summary: Adaptive zero velocity detection for ZUPT-aided pedestrian navigation system.
 tags:
-- Deep Learning
+- Pedestrain Positioning
 date: "2019-09-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -15,12 +15,12 @@ image:
 links:
 - icon: envelope
   icon_pack: fas
-  name: contact
+  name: Contact
   link: "zhu_ran@outlook.com"
 url_code: ""
 url_pdf: "media/Symmetrical-Net.pdf"
 url_slides: ""
-url_video: 'media/HAR_video.mp4'
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
