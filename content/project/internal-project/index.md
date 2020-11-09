@@ -1,22 +1,22 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Human Activity Recognition
+summary: An efficient deep Ensemble method to recognize confusing activities.
 tags:
 - Deep Learning
-date: "2016-04-27T00:00:00Z"
+date: "2019-06-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://ieeexplore.ieee.org/document/8734079"
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon: envelope
+  icon_pack: fas
+  name: contact
+  link: "zhu_ran@outlook.com"
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,12 +30,17 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Human activity recognition (HAR) aiming to identify the actions carried out by a person given a set of observations of subject, has attracted much attention from both academia and industry with widely application requirements appearing in the indoor pedestrian tracking, healthcare, and smart cities. Currently, HAR methods can be mainly summarized as two categories: vision-based and sensor-based. Vision-based mainly relies on various high-frame-rate video devices. External factors such as lighting condition, clothing color, and image background have a great impact on recognition accuracy. The sensor-based approach, by contrast, is more robust in complex environments, which makes the system convenient and portable. Also, it can identify confusing human activities with the mathematical model by directly measuring the motion from human activities without infringement of personal privacy.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+With the advent of miniaturized sensors and powerful computing resources in smartphones, the concept of efficient and ubiquitous HAR on smartphones is ready to fulfill soon. Among recent studies focusing on smartphone-based HAR, most researchers chose waist as the position to carry smartphones. However, the requirement for rigid attachment and specified placement is incompatible with the way in which people use mobile devices. For example, over a period of a few minutes, a smartphone could be carried in the backpack and then shifted to a pocket, before being taken out and being used to send a text message. This may be one of the main reasons why it is so hard to conduct HAR using smartphone sensors.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Existing studies of sensor-based activity recognition often rely on supervised machine learning approaches such as Hidden Markov Model (HMM) , K-Nearest-Neighbors (KNN) , eXtreme Gradient Boosting (XGBoost), Random Forest (RF) and Support Vector Machine (SVM) using motion data collected from various types and quantities of motion sensors placed in different parts of body. However, these approaches are limited to three aspects: Firstly, due to the diversity and complexity of human activities, handcrafted feature extraction requires experience and expertise of the field. For the same reason, some extracted features show excellent performance in recognizing some activities, but rather bad at others. Secondly, even for the same activity, the waveforms of motion sensors are quite different in different smartphone placements. This makes it difficult to recognize various different activities with high precision. Thirdly, because of the differences in behavioral habits, gender, and age, the movement patterns of different people vary greatly, which enhances the difficulty of dividing the boundaries of different activities. The recognition accuracy tends to be limited due to confusing activities which generate similar motion signals.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Recent years have witnessed fast development and unparalleled performance in many areas (i.e. image recognition, natural language processing) of deep learning. There is a growing trend of discovering meaningful representations of raw data by Convolutional Neural Network (CNN). It has shown great performance in different domains for avoiding handcrafted features. Therefore, we present the ensemble framework based on CNN to recognize human activities. Without tiring data preprocessing and feature extraction and selection, we put raw data that is partitioned by the sliding window into our network. By fully mining the information carried by the signal, it can achieve more accurate recognition on the combination of arbitrary activities and devices placement.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+This project presents a framework and performance analysis of smartphone-sensor based HAR. Sensor data from accelerometer, gyroscope and magnetometer were collected when participants performed some typical and daily human activities: going upstairs, going downstairs, running, walking, standing, bicycling and swinging. We then used the ensemble of CNN to recognize human activities, especially those easily confused. The experiments have demonstrated the improvement on recognition accuracy with the proposed approach. In summary, the key contributions are:
+
+- A novel approach based on the ensemble of CNN has been proposed to solve the confusion between highly similar activities such as going upstairs and walking, which outperforms the single CNN model and achieves 96.11% accuracy.
+- Based on the collected data, we compare our model with the commonly used classifiers. The fact proves that the approach proposed in this paper outperforms other existing models in feasibility and efficiency.
+- A huge amount of motion data including 235 977 data samples from various types of motion sensors and sports scenes with different participants and postures are collected to validate the effectiveness of the proposed method.
+
