@@ -15,11 +15,11 @@ image:
 links:
 - icon: envelope
   icon_pack: fas
-  name: contact
+  name: Contact
   link: "zhu_ran@outlook.com"
 url_code: ""
 url_pdf: "https://ieeexplore.ieee.org/document/8734079"
-url_slides: ""
+url_slides: 'media/presentation-dsp2018_11_20.pdf'
 url_video: 'media/HAR_video.mp4'
 
 # Slides (optional).
@@ -27,7 +27,7 @@ url_video: 'media/HAR_video.mp4'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#   slides: example
 ---
 
 Human activity recognition (HAR) aiming to identify the actions carried out by a person given a set of observations of subject, has attracted much attention from both academia and industry with widely application requirements appearing in the indoor pedestrian tracking, healthcare, and smart cities. Currently, HAR methods can be mainly summarized as two categories: vision-based and sensor-based. Vision-based mainly relies on various high-frame-rate video devices. External factors such as lighting condition, clothing color, and image background have a great impact on recognition accuracy. The sensor-based approach, by contrast, is more robust in complex environments, which makes the system convenient and portable. Also, it can identify confusing human activities with the mathematical model by directly measuring the motion from human activities without infringement of personal privacy.
