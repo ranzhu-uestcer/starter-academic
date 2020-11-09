@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "zhu_ran@outlook.com".
+  link: "ranzhu@std.uestc.edu.cn".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
