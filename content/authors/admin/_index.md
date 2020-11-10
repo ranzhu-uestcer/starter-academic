@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "zhu_ran@outlook.com"
+  link: mailto:zhu_ran@outlook.com
 - icon: github
   icon_pack: fab
   link: https://github.com/ranzhu-uestcer
