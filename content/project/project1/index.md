@@ -16,7 +16,7 @@ links:
 - icon: envelope
   icon_pack: fas
   name: Contact
-  link: "zhu_ran@outlook.com"
+  link: mailto:ranzhu@std.uestc.edu.cn
 url_code: ""
 url_pdf: "https://ieeexplore.ieee.org/document/8734079"
 url_slides: 'media/presentation-dsp2018_11_20.pdf'
