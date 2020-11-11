@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-I am Ran Zhu, a graduate candidate (supervised by `Prof`. [Zhuoling Xiao](http://www.cs.ox.ac.uk/people/zhuoling.xiao/)) studying in Communication and information system in the Department of Internet of Things Engineering, [UESTC (Chengdu)](https://en.uestc.edu.cn/).
+I am Ran Zhu, a graduate candidate (supervised by Prof. [Zhuoling Xiao](http://www.cs.ox.ac.uk/people/zhuoling.xiao/)) studying in Communication and information system in the Department of Internet of Things Engineering, [UESTC (Chengdu)](https://en.uestc.edu.cn/).
 
 My research interests lie in **indoor pedestrian positioning** and **intelligent navigation for autonomous robots**, especially about PDR, visual odometry, and visual SLAM. Previously I had been working on human activity recognition using smartphones and Zero velocity detection in ZUPT based on inertial for pedestrian navigation. I design new algorithms (increasing machine and deep learning based) and apply these innovations to solving these issues.
 
