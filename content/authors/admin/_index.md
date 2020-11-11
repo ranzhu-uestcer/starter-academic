@@ -11,7 +11,7 @@ role: Master degree candidate majoring in Communication and Information System
 # Organizations/Affiliations
 organizations:
 - name: The Department of Internet of Things Engineering, UESTC
-  url: ""
+  url: "https://en.uestc.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Mobile robotics, V-SLAM and Indoor pedestrian positioning.
@@ -66,8 +66,8 @@ user_groups:
 - Visitors
 ---
 
-I am Ran Zhu, a graduate candidate studying in Communication and information system in the Department of Internet of Things Engineering, UESTC (Chengdu).
+I am Ran Zhu, a graduate candidate (supervised by `Prof`. [Zhuoling Xiao](http://www.cs.ox.ac.uk/people/zhuoling.xiao/)) studying in Communication and information system in the Department of Internet of Things Engineering, UESTC (Chengdu).
 
-My research interests lie in indoor pedestrian positioning and intelligent navigation for autonomous robots, especially about PDR, visual odometry, and visual SLAM. Previously I had been working on human activity recognition using smartphones and Zero velocity detection in ZUPT based on inertial for pedestrian navigation. I design new algorithms (increasing machine and deep learning based) and apply these innovations to solving these issues.
+My research interests lie in** indoor pedestrian positioning** and **intelligent navigation for autonomous robots**, especially about PDR, visual odometry, and visual SLAM. Previously I had been working on human activity recognition using smartphones and Zero velocity detection in ZUPT based on inertial for pedestrian navigation. I design new algorithms (increasing machine and deep learning based) and apply these innovations to solving these issues.
 
-Currently, I am investigating how to localize people and objects in environments where technologies like GPS fail, such as underground or indoors. For people positioning, my work is to address the map matching problem of inertial navigation by leveraging architectural constraints and visual information when there is no starting point. For robot navigation, my research aims to build an intelligent robotic system that can more efficiently deal with the traditional SLAM problems by combining traditional methods and deep learning.
+Currently, I am investigating **how to localize people and objects in environments where technologies like GPS fail**, such as underground or indoors. For people positioning, my work is to address the map matching problem of inertial navigation by leveraging architectural constraints and visual information when there is no starting point. For robot navigation, my research aims to build an intelligent robotic system that can more efficiently deal with the traditional SLAM problems by combining traditional methods and deep learning.
